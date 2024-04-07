@@ -1,1 +1,1 @@
-"Cli Calculator using Inquirer" 
+# TypeScript Projects
